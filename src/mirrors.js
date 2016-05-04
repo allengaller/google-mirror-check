@@ -17,5 +17,7 @@ module.exports = [
     "https://go.cccyun.cn/",
     "https://jisuobuyu.com/",
     "https://www.iamgg.pw/",
+    "http://www.baidu.com.se/",
+    "https://forestgump.me/",
     "https://www.onenew.net/"
 ];
